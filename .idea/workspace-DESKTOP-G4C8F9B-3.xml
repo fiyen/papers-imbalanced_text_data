@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d1947e2-9339-4fd5-96ec-a7e617edb1f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20R1ZZ6xg9GYSZNOQfJbALlYPqo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/baselines/rwo.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\WORK\Python\MyPaperCodes\imbalanced_data\baselines" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\WORK\Python\MyPaperCodes\imbalanced_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bow">
+    <configuration name="bow" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="imbalanced_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baselines" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baselines/bow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cnn" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="imbalanced_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\ProgramData\Anaconda3\envs\tfenv\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baselines" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baselines/cnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="imbalanced_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rwo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="imbalanced_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Winsun\Anaconda3\envs\tfenv\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baselines" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baselines/rwo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.bow" />
+      <item itemvalue="Python.rwo" />
+      <item itemvalue="Python.cnn" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1947e2-9339-4fd5-96ec-a7e617edb1f8" name="Default Changelist" comment="" />
+      <created>1635992641811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635992641811</updated>
+      <workItem from="1635992643705" duration="21369000" />
+      <workItem from="1636031613056" duration="26485000" />
+      <workItem from="1636120052225" duration="60852000" />
+      <workItem from="1636601327729" duration="54527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636870074382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1636870074382" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1636867903518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1636867903518" />
+    <state width="1493" height="352" key="GridCell.Tab.0.bottom" timestamp="1637026782717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637026782717" />
+    <state width="1493" height="352" key="GridCell.Tab.0.center" timestamp="1637026782717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1637026782717" />
+    <state width="1493" height="352" key="GridCell.Tab.0.left" timestamp="1637026782717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1637026782717" />
+    <state width="1493" height="352" key="GridCell.Tab.0.right" timestamp="1637026782717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1637026782717" />
+    <state width="1493" height="352" key="GridCell.Tab.1.bottom" timestamp="1637026782717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637026782717" />
+    <state width="1493" height="352" key="GridCell.Tab.1.center" timestamp="1637026782717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1637026782717" />
+    <state width="1493" height="352" key="GridCell.Tab.1.left" timestamp="1637026782717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1637026782717" />
+    <state width="1493" height="352" key="GridCell.Tab.1.right" timestamp="1637026782717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1637026782717" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1635996104433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1635996104433" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baselines/cnn.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baselines/cnn.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baselines/bow.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_utils.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baselines/cnn.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baselines/rwo.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baselines/bow.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baselines/bow.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baselines/rwo.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baselines/bow.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_utils.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/imbalanced_data$main.coverage" NAME="main Coverage Results" MODIFIED="1636870046318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imbalanced_data$cnn.coverage" NAME="cnn Coverage Results" MODIFIED="1636288126000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines" />
+    <SUITE FILE_PATH="coverage/imbalanced_data$bow.coverage" NAME="bow Coverage Results" MODIFIED="1636981836075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines" />
+    <SUITE FILE_PATH="coverage/imbalanced_data$rwo.coverage" NAME="rwo Coverage Results" MODIFIED="1636868757113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines" />
+  </component>
+</project>
