@@ -10,7 +10,7 @@ last modification date: 2021/11/04
 class Config:
   # datasets related
   datasets_dir = "D:/data/imbalancedData/datasets"
-  file_name = 'webkb'  # @param ['r52','r8','20ng','amazon-reviews','webkb']
+  file_name = 'webkb'  # @param ['r52','webkb']
   file_form = 'stemmed'  # @param ['no-stop','stemmed','all-terms']
   file_suffix = '.txt'  # @param ['.txt','.vec','.bin']
   fname = 'D:/data/imbalancedData/w2v/w2v'
